@@ -1,18 +1,11 @@
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
+import CategoriesScreen from './screens/CategoriesScreen';
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Meals App</Text>
-    </View>
-  );
+  return <CategoriesScreen />;
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
+  container: {},
 });
