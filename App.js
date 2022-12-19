@@ -20,7 +20,7 @@ export default function App() {
             screenOptions={{
               headerStyle: {backgroundColor: '#351401'},
               headerTintColor: 'white',
-              contentStyle: {backgroundColor: '#351401'},
+              contentStyle: {backgroundColor: '#3F2F25'},
             }}>
             <Stack.Screen
               name="MealsCategories"
