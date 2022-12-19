@@ -32,7 +32,7 @@ export const MEALS = [
       'Cheese (optional)',
     ],
     [
-      'Cut the tomatoes and the onion into small pieces.',
+      'Cut the tomatos and the onion into small pieces.',
       'Boil some water - add salt to it once it boils.',
       'Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.',
       'In the meantime, heaten up some olive oil and add the cut onion.',
